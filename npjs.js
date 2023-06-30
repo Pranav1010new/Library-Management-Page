@@ -1,5 +1,3 @@
-{/* <script> */}
-
         function book(sno, title, author, q) {
             this.sno = sno;
             this.title = title;
@@ -85,6 +83,3 @@
                     }
                 });
         }
-
-
-    {/* </script> */}
